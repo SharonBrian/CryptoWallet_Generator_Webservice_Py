@@ -2,7 +2,7 @@
 
 Supported Crypto Wallet：
 
-BTC、ETH、ETC、HuobiEcoChain(HECO)、BinanceSmartChain(BSC)、OKexChain(OKT)、 TRX、USDT(ERC20/TRC20/OMNI)、EOS、BCH、QTUM、Filecoin(FIL)、BSV、VeChain(VET)、Polygon(MATIC)、LTC、DASH、DOGE、 Cosmos(ATOM）、Monero(XMR)、Waves、Ripple(XRP)、BNB、NEO、ONT、Steller(XLM)、POTE、CLUB
+BTC、ETH、ETC、HuobiEcoChain(HECO)、BinanceSmartChain(BSC)、OKexChain(OKT)、 TRX、USDT(ERC20/TRC20/OMNI)、EOS、BCH、Filecoin(FIL)、BSV、VeChain(VET)、Polygon(MATIC)、LTC、DASH、DOGE、 Cosmos(ATOM）、Monero(XMR)、Waves、Ripple(XRP)、BNB、NEO、ONT、Steller(XLM)、POTE、CLUB
 
 
 # Run 
@@ -21,7 +21,6 @@ BTC、ETH、ETC、HuobiEcoChain(HECO)、BinanceSmartChain(BSC)、OKexChain(OKT)�
 ('usdt_omni', '1228hGMgr2Z1Kyh7epkFu3YmYsKjJGx5Za', 'KxJnv97XzQfDDTjsBT2BYZqMZ5ofgy4KRPmbNkWqfThLJ6rbaNmC')
 ('eos', 'EOS7TwXDUFyUKNgkQbzsPid1ZiYddHuA9RzfjMXbjXnFXdwT91NMs', '5KFGPYgD3broTjWAf4j4AfhCs9rnRgmqrKwkmCAPnuCoXhCAeFH')
 ('bch', '1J2VLkXD3AWL22ML43PhCxoxixSJMhoWQ4', 'KzBrjgFUnwcTnwArCmtD5KcdMYwpfVBKvSZWAyMeEMtN7qtgxWY3')
-('qtum', 'QdCSxB2vnKC8BHkygL7tC6ZNpcUag3zExb', 'KwaKrr5QbfNEmxXVpxQAYoriABkHpmzhfAT5xvXFECJ56f21uJBC')
 ('fil', 'f1fgqy4dxeyezcealpftgsnijq554z52zk3jbzsvq', '3408cb19d149daef578c736c331b34d480ac4c101b6228c889d94f98984741ac')
 ('bsv', '17Y19k6QeExagq5mZUoFuA1YgSkzXJg2Qh', 'KxG9M3DwZVJG1yKguZtYrfvLtVjpysWb6MVVbRKJmSjEA76HESfL')
 ('vet', '0x3c3a31a8dd6cc506314b297098b18b7fb278fdb4', 'fa9921d17676203e6d69a30ca89ba9cb57ae61d0d25520f1a6e5e5e44176a96e')
