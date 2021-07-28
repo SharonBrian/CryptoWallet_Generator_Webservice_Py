@@ -16,7 +16,7 @@ def create_wallet(type):
 def is_supported_symbols(type):
     supported_symbols = ["btc", "eth", "etc", "heco", "bsc", "okt", "trx",
                          "usdt_erc20", "usdt_trc20", "usdt_omni", "eos",
-                         "bch", "qtum", "fil", "bsv", "vet", "matic", "ltc", "dash", "doge",
+                         "bch", "fil", "bsv", "vet", "matic", "ltc", "dash", "doge",
                          "atom", "xmr", "waves", "xrp", "bnb", "neo", "ont", "xlm", "pote", "club"]
     if type in supported_symbols:
         return True
@@ -36,7 +36,6 @@ if __name__ == "__main__":
     print(create_wallet("usdt_omni"))
     print(create_wallet("eos"))
     print(create_wallet("bch"))
-    print(create_wallet("qtum"))
     print(create_wallet("fil"))
     print(create_wallet("bsv"))
     print(create_wallet("vet"))
